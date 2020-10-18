@@ -1,0 +1,11 @@
+/* 下記の説明　idは「#」で始める */
+#display{
+  font-size: 60px;
+  text-align:center;
+  margin-top:100px;
+}
+
+/* 下記の説明　classは「.」で始める */
+.buttons{
+  text-align:center;
+}
